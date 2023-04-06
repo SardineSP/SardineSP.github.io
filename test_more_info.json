@@ -1,11 +1,11 @@
 [
-    { "id" : 3, "brand": "브랜드1", "price" : 15000, "title" : "test1" },
-    { "id" : 4, "brand": "브랜드2", "price" : 55000, "title" : "test2" },
-    { "id" : 5, "brand": "브랜드3", "price" : 30000, "title" : "test3" },
-    { "id" : 6, "brand": "브랜드4", "price" : 15000, "title" : "test4" },
-    { "id" : 7, "brand": "브랜드5", "price" : 55000, "title" : "test5" },
-    { "id" : 8, "brand": "브랜드6", "price" : 30000, "title" : "test6" },
-    { "id" : 9, "brand": "브랜드7", "price" : 15000, "title" : "test7" },
-    { "id" : 10, "brand": "브랜드8", "price" : 55000, "title" : "test8" },
-    { "id" : 11, "brand": "브랜드9", "price" : 30000, "title" : "test9" }
+    { "image" : "${pageContext.request.contextPath}/resources/main/test11.webp", "id" : 3, "brand": "브랜드1", "price" : 15000, "title" : "test1" },
+    { "image" : "${pageContext.request.contextPath}/resources/main/test12.webp", "id" : 4, "brand": "브랜드2", "price" : 55000, "title" : "test2" },
+    { "image" : "${pageContext.request.contextPath}/resources/main/test13.webp", "id" : 5, "brand": "브랜드3", "price" : 30000, "title" : "test3" },
+    { "image" : "${pageContext.request.contextPath}/resources/main/test14.webp", "id" : 6, "brand": "브랜드4", "price" : 15000, "title" : "test4" },
+    { "image" : "${pageContext.request.contextPath}/resources/main/test15.webp", "id" : 7, "brand": "브랜드5", "price" : 55000, "title" : "test5" },
+    { "image" : "${pageContext.request.contextPath}/resources/main/test16.webp", "id" : 8, "brand": "브랜드6", "price" : 30000, "title" : "test6" },
+    { "image" : "${pageContext.request.contextPath}/resources/main/test17.webp", "id" : 9, "brand": "브랜드7", "price" : 15000, "title" : "test7" },
+    { "image" : "${pageContext.request.contextPath}/resources/main/test18.webp", "id" : 10, "brand": "브랜드8", "price" : 55000, "title" : "test8" },
+    { "image" : "${pageContext.request.contextPath}/resources/main/test19.webp", "id" : 11, "brand": "브랜드9", "price" : 30000, "title" : "test9" }
 ]
